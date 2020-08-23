@@ -1,3 +1,7 @@
+A React web app to show the number of cases country wise.
+
+Demo : https://covid-19-tracker-a76f8.web.app/
+
 Go inside project directory and run :
 
 npm start
